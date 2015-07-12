@@ -1,0 +1,12 @@
+*************************
+** BLITZBALL SIMULATOR **
+*************************
+
+TODO :
+	*Skill Tacles
+	*Skill Effects
+	*Fumbles ( PS = 0, diff presque egal 0 ...)
+	*Match end
+	*Exp
+	*IA
+	*Multi Online

@@ -1,0 +1,4 @@
+var Utils = (new function ()
+{
+
+}());
